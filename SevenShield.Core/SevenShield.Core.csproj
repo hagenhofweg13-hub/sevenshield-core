@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>SevenShield.Core</RootNamespace>
+    <AssemblyName>SevenShield.Core</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Argon2id-Implementierung. RFC-9106-konform, aktiv gepflegt. -->
+    <PackageReference Include="Konscious.Security.Cryptography.Argon2" Version="1.3.1" />
+  </ItemGroup>
+
+</Project>

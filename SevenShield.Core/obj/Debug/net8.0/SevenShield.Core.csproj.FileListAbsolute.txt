@@ -1,0 +1,12 @@
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\bin\Debug\net8.0\SevenShield.Core.deps.json
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\bin\Debug\net8.0\SevenShield.Core.dll
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\bin\Debug\net8.0\SevenShield.Core.pdb
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\SevenShield.Core.csproj.AssemblyReference.cache
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\SevenShield.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\SevenShield.Core.AssemblyInfoInputs.cache
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\SevenShield.Core.AssemblyInfo.cs
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\SevenShield.Core.csproj.CoreCompileInputs.cache
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\SevenShield.Core.dll
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\refint\SevenShield.Core.dll
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\SevenShield.Core.pdb
+C:\sevenshield\SevenShield-Branding-v2\SevenShield\SevenShield.Core\obj\Debug\net8.0\ref\SevenShield.Core.dll
